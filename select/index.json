@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "base_track": "That Classmate",
+  "base_artist": "Mulasaki Ima",
+  "createdAt": "2026-03-24T10:57:29.638419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウワサのあの子 - That Classmate",
+      "artist": "Mulasaki Ima",
+      "has_synced": true,
+      "path": "select/01_ウワサのあの子_-_That_Classmate_Mulasaki_Ima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That Classmate",
+      "artist": "Mulasaki Ima",
+      "has_synced": true,
+      "path": "select/02_That_Classmate_Mulasaki_Ima.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "That Classmate",
+      "artist": "Mulasaki Ima",
+      "has_synced": true,
+      "path": "select/localdb_01_That_Classmate_Mulasaki_Ima.lrc",
+      "repo_name": "JPtTT58ObqM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "That Classmate",
+      "artist": "Mulasaki Ima",
+      "has_synced": true,
+      "path": "select/localdb_02_That_Classmate_Mulasaki_Ima.lrc",
+      "repo_name": "-tO9d1Nwd0M"
+    }
+  ]
+}
